@@ -17,6 +17,7 @@ import subprocess
 
 g.es("=================================")
 g.es("== IP to HEX conversion =========")
+g.es("== 3min. tutorial :  https://www.youtube.com/watch?v=-9GWCwUnqEw")
 g.es("=================================")
 
 # get clipboard data
